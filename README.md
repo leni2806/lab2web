@@ -40,17 +40,24 @@ refresh lagi untuk melihat hasilnya
 
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut:
 <img src="/codestyle.png" width="500">
+
 Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat
+
 <img src="/code5.png" width="500">
+
 setelah itu refresh lagi untuk melihat hasilnya
+
 <img src="/image4.png" width="500">
 
 6. Menambahkan css selector
 
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
 style_eksternal.css, tambahkan kode berikut:
+
 <img src="/codecss5.png" width="500">
+
 simpan dan refresh lagi untuk melihat hasil perubahannya
+
 <img src="/image5.png" width="500">
 
 
