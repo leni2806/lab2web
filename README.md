@@ -43,8 +43,6 @@ Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS
 
 Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat
 
-<img src="/code5.png" width="500">
-
 setelah itu refresh lagi untuk melihat hasilnya
 
 <img src="/image4.png" width="500">
